@@ -13,6 +13,7 @@ class Rectangle:
         return 2 * (self.length + self.width)
 
 # Example usage
-rect = Rectangle(5, 3)  # Create a rectangle with length 5 and width 3
+rect = Rectangle(56, 3)  # Create a rectangle with length 5 and width 3
 print("Area:", rect.area())  # Output: 15
 print("Perimeter:", rect.perimeter())  # Output: 16
+
